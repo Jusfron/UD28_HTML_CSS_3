@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color:burlywood;
+}
+
+h2 {
+    color:cornflowerblue;
+}
+
+strong {
+    color:lightblue;
+}
+
+p.lightblue {
+    color: lightblue;
+}
